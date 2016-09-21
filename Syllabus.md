@@ -16,13 +16,13 @@ web: http://courses.eddierangel.com/bc
 ## Course Information
 Building/Room: Business 11:
 
-**Section 70572:** 
-Tuesday 9:35 am - 11:00 am   
-Thursday 9:35 am - 11:00 am 
+**Section 70572:**   
+Tuesday 9:35 am - 11:00 am     
+Thursday 9:35 am - 11:00 am    
 
-**Section 70575:** 
-Tuesday 2:35 pm - 4:00 pm   
-Thursday 2:35 pm - 4:00 pm   
+**Section 70575:**   
+Tuesday 2:35 pm - 4:00 pm     
+Thursday 2:35 pm - 4:00 pm     
 
 
 ## Office Hours

@@ -1,4 +1,4 @@
-# COMP B2 - Intro to Computer Information Systems 
+# COMP B5: Intro to Microsoft Office
 ## Fall 2016 CRN: 70572 & 70575
 
 ## Instructor

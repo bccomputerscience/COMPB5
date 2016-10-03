@@ -1,4 +1,4 @@
-# COMP B5: Intro to Microsoft Office
+# COMP B5 - Intro to Microsoft Office
 ## Fall 2016 CRN: 70572 & 70575
 
 ## Instructor
@@ -101,7 +101,7 @@ Assignment | Points
 Pop Quizzes (5 @ 10 pts) | 50
 3 Exams (50 points each) | 150
 Final Exam | 50
-Total | 500
+**Total** | **500**
 
 Range (%) | grade 
 ------------ | -------------

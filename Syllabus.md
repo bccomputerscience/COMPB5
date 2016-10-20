@@ -149,10 +149,10 @@ Oct 6 | |  | |
 Oct 11 | 8 | Excel |  | 
 Oct 13 |  |  | Ch. 3 |   
 Oct 18 | 9 | Excel | |
-Oct 20 |  |  |  |
+Oct 20 |  | Access Ch. 1 |  |
 Oct 21 |  | Last day to withdraw and have a W show on your transcript | |
-Oct 25 | 10 | Excel Exam | Excel HW 3 Due | 
-Oct 27 |  | | | 
+Oct 25 | 10 |  | Excel HW 3 Due | 
+Oct 27 |  | Excel Exam | | 
 Nov 1 | 11 | Access | Ch. 2 |  
 Nov 6 | | | | 
 Nov 8 | 12 | Access | Ch. 3 | 

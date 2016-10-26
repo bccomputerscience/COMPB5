@@ -152,11 +152,11 @@ Oct 18 | 9 | Excel | |
 Oct 20 |  | Access Ch. 1 |  |
 Oct 21 |  | Last day to withdraw and have a W show on your transcript | |
 Oct 25 | 10 |  | Excel HW 3 Due | 
-Oct 27 |  | Excel Exam | | 
+Oct 27 |  | Excel Exam |  | Access HW 1 Assigned   
 Nov 1 | 11 | Access | Ch. 2 |  
-Nov 6 | | | | 
+Nov 6 | | |  | Access HW 1 Due / HW 2 Assigned  
 Nov 8 | 12 | Access | Ch. 3 | 
-Nov 10 | | | | 
+Nov 10 | | | | HW 2 Due / HW 3 Assigned
 Nov 15 | 13  | PowerPoint | Ch. 1 | 
 Nov 27 | | | | 
 Nov 22 | 14 | PowerPoint | Ch. 2 |

@@ -160,8 +160,8 @@ Nov 10 | | | Ch. 3 | HW 2 Due
 Nov 15 | 13  |  |  |  Access Ch. 3 Assigned 
 Nov 27 | | PowerPoint | Ch. 1  | 
 Nov 22 | 14 | Access Exam |  |
-Nov 24 | PowerPoint | Thanksgiving Holiday Campus Closed |  |
-Nov 29 | 15 | PowerPoint | Ch. 3 |
+Nov 24 |  | Thanksgiving Holiday Campus Closed |  |
+Nov 29 | 15 | PowerPoint | Ch. 2 |
 Dec 1 |  |  | |
 Dec 6 | 16 |  Final Exam - 8:00 am to 9:50 am | | 
 

@@ -155,12 +155,12 @@ Oct 25 | 10 |  | Excel HW 3 Due |
 Oct 27 |  | Excel Exam |  | Access HW 1 Assigned   
 Nov 1 | 11 | Access | Ch. 2 |  
 Nov 6 | | |  | Access HW 1 Due / HW 2 Assigned  
-Nov 8 | 12 | Access | Ch. 3 | 
-Nov 10 | | | | HW 2 Due / HW 3 Assigned
-Nov 15 | 13  | PowerPoint | Ch. 1 | 
-Nov 27 | | | | 
-Nov 22 | 14 | PowerPoint | Ch. 2 |
-Nov 24 |  | Thanksgiving Holiday Campus Closed |  |
+Nov 8 | 12 | Access |  | 
+Nov 10 | | | Ch. 3 | HW 2 Due
+Nov 15 | 13  |  |  |  Access Ch. 3 Assigned 
+Nov 27 | | PowerPoint | Ch. 1  | 
+Nov 22 | 14 | Access Exam |  |
+Nov 24 | PowerPoint | Thanksgiving Holiday Campus Closed |  |
 Nov 29 | 15 | PowerPoint | Ch. 3 |
 Dec 1 |  |  | |
 Dec 6 | 16 |  Final Exam - 8:00 am to 9:50 am | | 

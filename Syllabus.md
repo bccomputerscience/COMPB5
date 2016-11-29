@@ -163,7 +163,7 @@ Nov 22 | 14 | Access Exam |  |
 Nov 24 |  | Thanksgiving Holiday Campus Closed |  |
 Nov 29 | 15 | PowerPoint | Ch. 2 |
 Dec 1 |  |  | |
-Dec 6 | 16 |  Final Exam - 8:00 am to 9:50 am | | 
+Dec 6 | 16 |  Final Exam - 10:00AM - 11:50AM | | 
 
 ### READ THE MATERIAL FOR THE WEEK BEFORE CLASS
 ### This syllabus is TENTATIVE and subject to change

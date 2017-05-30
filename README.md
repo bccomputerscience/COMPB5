@@ -19,13 +19,14 @@ Online
 
 
 ## Office Hours
-Building/Room: Business 13
+Building/Room: Online
 
 Day | Time
 ------------ | -------------
-Monday | 11:30am – 12:30pm
-Wednesday | 11:30am – 12:30pm
+Monday | 11:30am – 12:00pm
+Wednesday | 11:30am – 12:00pm
 * If you are unable to see me during my regularly scheduled office hours, please email me to schedule an appointment.
+* Online office hours will be conducted through Canvas.
 
 ## Course Description
 This course is intended for home users and business people who desire a working knowledge of personal computer hardware and software. 

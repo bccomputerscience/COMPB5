@@ -19,13 +19,14 @@ Online
 
 
 ## Office Hours
-Building/Room: Business 13
+Building/Room: Online
 
 Day | Time
 ------------ | -------------
-Monday | 11:30am – 12:30pm
-Wednesday | 11:30am – 12:30pm
+Monday | 11:30am – 12:00pm
+Wednesday | 11:30am – 12:00pm
 * If you are unable to see me during my regularly scheduled office hours, please email me to schedule an appointment.
+* Online office hours will be conducted through Canvas.
 
 ## Course Description
 This course is intended for home users and business people who desire a working knowledge of personal computer hardware and software. 
@@ -67,7 +68,9 @@ Attendance is mandatory. The attendance policy as outlined in the campus catalog
 retroactively drop you if you miss one of the “last day” to drop the course dates.  These dates are listed in class schedule and in the online campus schedule “Important Dates” section. It is also expected that students will notify me before class in the rare instance of needing to leave class early.  Students, not notifying me in advance, will be marked absent upon their early departure.
 
 ### Online Courses
-This course is conducted entirely online, which means you do not have to be on campus to complete any portion of it. You will participate in the course using BC's learning management system called CANVAS.
+This course is conducted entirely online, which means you do not have to be on campus to complete any portion of it. You will participate in the course using BC's learning management system called CANVAS which can be accessed through BC's Portal [Inside BC](https://portal.bakersfieldcollege.edu/) or at [BC Canvas](https://kccd.instructure.com/). 
+
+At times the District and College's Information Technology Services Departments will perform maintenance on the various web platforms which will result in them being unavailable. It is important to pay attention these email noticifactions and understand when such outages will occur. It may impede your ability to access our course management system, which means you may not be able to submit assignments. Please ensure any assignments due are turned in prior to the due dates and prior to any scheduled maitenance.
 
 
 ## Technology Requirements
@@ -78,8 +81,7 @@ with internet access that you can use for free.
 
 ### Computer Requirements
 * You will need to have an up-to-date browser, operating system and some additional
-software on your computer to take this class. Some of the documents in this course will be available
-to you in PDF form. If you do not have Adobe Acrobat Reader software on your computer,
+software on your computer to take this class. Some of the documents in this course will be available to you in PDF form. If you do not have Adobe Acrobat Reader software on your computer,
 you can download it by going to http://get.adobe.com/reader/.
 
 
@@ -140,7 +142,7 @@ timely basis. Consistent failure to participate in class will result in being dr
 Assignment | Points
 ------------ | -------------
 10 Homework Assignments (25 points each) | 250
-Pop Quizzes (5 @ 10 pts) | 50
+Quizzes (5 @ 10 pts) | 50
 3 Exams (50 points each) | 150
 Final Exam | 50
 **Total** | **500**
@@ -168,6 +170,20 @@ Go to a BC Library Workshop (5 pts)
 Many free resources exist at BC to help you accomplish your goals. For great information on developing new 
 habits for success [Habits of Mind](visit www.bakersfieldcollege.edu/habits-of-mind).
 
+
+## Important Dates
+Date | Event
+------ | ------
+Jun 12 | Instruction begins 
+Jun 14 | Last day for refunds for 6 week classes
+Jun 18 | Last day to drop 6 week with no “W”
+Jun 19 | Census day for 6 week classes
+Jul 04 | Holiday - Fourth of July
+Jul 05 | Last day to withdraw from 6 week classes and receive a “W”
+Jul 20 | End of Summer Semester
+
+* [Important Dates](https://www.bakersfieldcollege.edu/important-dates)
+
 ## 6 Week Summer Semester Schedule
 Week | Topics | Reading | Assignments
  ------------- | ------------- | ------------- | -------------
@@ -178,44 +194,6 @@ Week | Topics | Reading | Assignments
 5 | Working with Images - Image Types  | Ch. 4 & 18 |
 6 | Tables | Ch. 5 & 16 | 
 
-
-## Weekly Schedule
-Date | Week | Subject | Notes | Assign/Due
------------- | ------------- | ------------- | ------------- | -------------
-Aug 23 | 1 |  Orientation | |
-Aug 25 |  | Getting started with Windows | Windows Ch. 1 |
-Aug 30 | 2 | Office 2013 & Windows 8 | Office Ch. 1 | 
-Sept 1 |  | Word | Word Ch. 1 |
-Sept 4 | 3 |  Labor Day – Campus Closed | | 
-Sept 5 |  | Last day to withdraw and not have a W show on your transcript | |
-Sept 6 |  | Word | | 
-Sept 8 | |  | |
-Sept 13 | 4  | Word | Ch. 2 | Word Homework 2 Assigned
-Sept 15 | |  |  |
-Sept 20 | 5 | Word | Ch. 3 | Word Homework 2 Due
-Sept 22 |  |  |  | Homework 3 Assigned
-Sept 27 | 6 | Excel | Ch. 1 | 
-Sept 29 |  |  | | Word Homework 3 Due
-Oct 4 | 7 | Excel | Ch. 2 |
-Oct 6 | |  | |  
-Oct 11 | 8 | Excel |  | 
-Oct 13 |  |  | Ch. 3 |   
-Oct 18 | 9 | Excel | |
-Oct 20 |  | Access Ch. 1 |  |
-Oct 21 |  | Last day to withdraw and have a W show on your transcript | |
-Oct 25 | 10 |  | Excel HW 3 Due | 
-Oct 27 |  | Excel Exam |  | Access HW 1 Assigned   
-Nov 1 | 11 | Access | Ch. 2 |  
-Nov 6 | | |  | Access HW 1 Due / HW 2 Assigned  
-Nov 8 | 12 | Access |  | 
-Nov 10 | | | Ch. 3 | HW 2 Due
-Nov 15 | 13  |  |  |  Access Ch. 3 Assigned 
-Nov 27 | | PowerPoint | Ch. 1  | 
-Nov 22 | 14 | Access Exam |  |
-Nov 24 |  | Thanksgiving Holiday Campus Closed |  |
-Nov 29 | 15 | PowerPoint | Ch. 2 |
-Dec 1 |  |  | |
-Dec 6 | 16 |  Final Exam - 10:00AM - 11:50AM or 2:00PM - 3:50PM | | 
 
 ### READ THE MATERIAL FOR THE WEEK BEFORE CLASS
 ### This syllabus is TENTATIVE and subject to change

@@ -11,8 +11,9 @@ Bakersfield College
 Building/Room: Business 1  
 E-Mail: edward.rangel@bakersfieldcollege.edu  
 Phone: (661) 395-4879   
-web: [BC Portal](https://portal.bakersfieldcollege.edu)  
-canvas: [BC Canvas](https://kccd.instructure.com/)
+Web: [BC Portal](https://portal.bakersfieldcollege.edu)  
+Canvas: [BC Canvas](https://kccd.instructure.com/)
+MyITLab: [MyITLab](http://www.pearsonmylabandmastering.com/northamerica/)
 
 ## Course Information
 Online
@@ -68,21 +69,29 @@ Attendance is mandatory. The attendance policy as outlined in the campus catalog
 retroactively drop you if you miss one of the “last day” to drop the course dates.  These dates are listed in class schedule and in the online campus schedule “Important Dates” section. It is also expected that students will notify me before class in the rare instance of needing to leave class early.  Students, not notifying me in advance, will be marked absent upon their early departure.
 
 ### Online Courses
-This course is conducted entirely online, which means you do not have to be on campus to complete any portion of it. You will participate in the course using BC's learning management system called CANVAS which can be accessed through BC's Portal [Inside BC](https://portal.bakersfieldcollege.edu/) or at [BC Canvas](https://kccd.instructure.com/). 
+This course is conducted entirely online, which means you do not have to be on campus to complete any portion of it. You will participate in the course using BC's learning management system called Canvas which can be accessed through BC's Portal [Inside BC](https://portal.bakersfieldcollege.edu/) or at [BC Canvas](https://kccd.instructure.com/). 
+
+We will also be using MyITLab [MyITLab](http://www.pearsonmylabandmastering.com/northamerica/) to access our course content. MyITLab is where you will go to access and submit your assignments.
 
 At times the District and College's Information Technology Services Departments will perform maintenance on the various web platforms which will result in them being unavailable. It is important to pay attention these email noticifactions and understand when such outages will occur. It may impede your ability to access our course management system, which means you may not be able to submit assignments. Please ensure any assignments due are turned in prior to the due dates and prior to any scheduled maitenance.
 
 
 ## Technology Requirements
-### ACCESS
-* If you do not have access to a computer off campus, there are many computer labs on
+### Access
+If you do not have access to a computer off campus, there are many computer labs on
 campus you can use to participate in the course. Most public libraries also have computers
 with internet access that you can use for free.
 
 ### Computer Requirements
-* You will need to have an up-to-date browser, operating system and some additional
+You will need to have an up-to-date browser, operating system and some additional
 software on your computer to take this class. Some of the documents in this course will be available to you in PDF form. If you do not have Adobe Acrobat Reader software on your computer,
 you can download it by going to http://get.adobe.com/reader/.
+
+### Office 2016 and Windows 10
+This course will focus on Microsoft's Office 2016 Suite of Applications and the Windows 10 Operating System. It is imperative that you have access to these software versions as all homework assignments will be based on them. If you do not currently have these versions, you either purchase full versions or a free student version by [Office 365 - Student Edition](https://products.office.com/en-us/student/office-in-education). There may be some features that may be unavailable in the student version. You are responsible for ensuring you're able to complete all assignments as expected. 
+
+### MyITLab
+This course uses an online companion website called MyITLab. When you purchase your book from the BC Bookstore, you will be provided an Access Code. The Access Code is required in order to register on MyITLab, which is where you will be completing your assignments. 
 
 
 ## Course communication

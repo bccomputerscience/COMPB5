@@ -197,8 +197,8 @@ Jul 20 | End of Summer Semester
 Week | Topics | Reading | Assignments
  ------------- | ------------- | ------------- | -------------
 1 | Orientation | Syllabus |
-  | Intro. to Computer Concepts | Ch. 1 |
-  | Intro. to Windows | Windows Ch. 1 |
+|  | Intro. to Computer Concepts | Ch. 1 |
+|  | Intro. to Windows | Windows Ch. 1 |
 2 | Windows Exam |  |
   | Word 1 | Ch. 1 | WD-HW1
   | Word 2 | Ch. 2 | WD-HW2

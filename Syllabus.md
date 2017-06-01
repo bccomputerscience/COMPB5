@@ -150,10 +150,9 @@ timely basis. Consistent failure to participate in class will result in being dr
 
 Assignment | Points
 ------------ | -------------
-10 Homework Assignments (25 points each) | 250
-Quizzes (5 @ 10 pts) | 50
-3 Exams (50 points each) | 150
-Final Exam | 50
+13 Homework Assignments (20 points each) | 260
+Quizzes (4 @ 10 pts) | 40
+4 Exams (50 points each) | 200
 **Total** | **500**
 
 Range (%) | grade 

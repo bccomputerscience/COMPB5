@@ -196,12 +196,26 @@ Jul 20 | End of Summer Semester
 ## 6 Week Summer Semester Schedule
 Week | Topics | Reading | Assignments
  ------------- | ------------- | ------------- | -------------
-1 | Introduction | Ch. 1 |
-2 | History of HTML, HTML Structure, Naming conventions | Ch. 1 | 
-3 | Text Tags - Table of Contents page - Basic formatting | Ch. 2, 3, 8 | 
-4 | Hyperlinks - 3 types - Connecting | Ch. 10, 11, 12 | 
-5 | Working with Images - Image Types  | Ch. 4 & 18 |
-6 | Tables | Ch. 5 & 16 | 
+1 | Orientation | Syllabus |
+  | Intro. to Computer Concepts | Ch. 1 |
+  | Intro. to Windows | Windows Ch. 1 |
+2 | Windows Exam |  |
+  | Word 1 | Ch. 1 | WD-HW1
+  | Word 2 | Ch. 2 | WD-HW2
+3 | Word 3 | Ch. 3 | WD-HW3
+  | Word Exam |  |
+  | Excel 1 | Ch. 1 | EX-HW1
+  | Excel 2 | Ch. 2 | EX-HW2
+4 | Excel 3 | Ch. 3 | EX-HW3
+  | Excel Exam |  |
+  | Access 1 | Ch. 1 | AC-HW1
+  | Access 2 | Ch. 2 | AC-HW2
+5 | Access 3 | Ch. 3 | AC-HW3
+  | Access Exam |  |
+  | PowerPoint 1 | Ch. 1 | PT-HW1
+  | PowerPoint 2 | Ch. 2 | PT-HW2
+6 | PowerPoint 3 | Ch. 3 | PT-HW3
+  | PowerPoint Exam |  |
 
 
 ### READ THE MATERIAL FOR THE WEEK BEFORE CLASS

@@ -196,7 +196,7 @@ Jul 20 | End of Summer Semester
 ## 6 Week Summer Semester Schedule
 Week | Topics | Reading | Assignments
  ------------- | ------------- | ------------- | -------------
-1 | Orientation | Syllabus |
+1 | Orientation | Syllabus | Scanvenger Hunt
 |  | Intro. to Computer Concepts | Ch. 1 |
 |  | Intro. to Windows | Windows Ch. 1 |
 2 | Windows Exam |  |

@@ -51,7 +51,7 @@ The following are the goals for students taking this class.
 
 ### Required:
 * Go with Microsoft Office 2016 Volume I Gaskin/Vargas ISBN: 9781323489895
-* * Access Code
+** Access Code
 * BC Email Address   
 * Flash Drive
 

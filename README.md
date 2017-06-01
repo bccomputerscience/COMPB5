@@ -1,5 +1,5 @@
 # COMP B5 - Intro to Microsoft Office
-## Fall 2016 CRN: 70572 & 70575
+## Summer 2017 CRN: 50245
 
 ## Instructor
 Eddie Rangel  
@@ -8,34 +8,25 @@ Information Technology
 Bakersfield College  
 
 ## Contact Information
-Building/Room: Business 13  
+Building/Room: Business 1  
 E-Mail: edward.rangel@bakersfieldcollege.edu  
 Phone: (661) 395-4879   
-web: http://courses.eddierangel.com/bc  
+web: [BC Portal](https://portal.bakersfieldcollege.edu)  
+canvas: [BC Canvas](https://kccd.instructure.com/)
 
 ## Course Information
-Building/Room: Business 11:
-
-**Section 70572:**   
-Tuesday 9:35 am - 11:00 am     
-Thursday 9:35 am - 11:00 am    
-
-**Section 70575:**   
-Tuesday 2:35 pm - 4:00 pm     
-Thursday 2:35 pm - 4:00 pm     
+Online
 
 
 ## Office Hours
-Building/Room: Business 13
+Building/Room: Online
 
 Day | Time
 ------------ | -------------
-Monday | 11:30am – 12:30pm
-Tuesday | 1:00pm – 2:00pm
-Wednesday | 11:30am – 12:30pm
-Thursday | 1:00pm – 2:00pm
-  | 4:30pm – 5:30pm
+Monday | 11:30am – 12:00pm
+Wednesday | 11:30am – 12:00pm
 * If you are unable to see me during my regularly scheduled office hours, please email me to schedule an appointment.
+* Online office hours will be conducted through Canvas.
 
 ## Course Description
 This course is intended for home users and business people who desire a working knowledge of personal computer hardware and software. 

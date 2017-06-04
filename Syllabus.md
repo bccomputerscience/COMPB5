@@ -12,8 +12,8 @@ Building/Room: Business 1
 E-Mail: edward.rangel@bakersfieldcollege.edu  
 Phone: (661) 395-4879   
 Web: [BC Portal](https://portal.bakersfieldcollege.edu)  
-Canvas: [BC Canvas](https://kccd.instructure.com/)
-MyITLab: [MyITLab](http://www.pearsonmylabandmastering.com/northamerica/)
+Canvas: [BC Canvas](https://kccd.instructure.com/)  
+MyITLab: [MyITLab](http://www.pearsonmylabandmastering.com/northamerica/)  
 
 ## Course Information
 Online

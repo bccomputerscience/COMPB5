@@ -194,7 +194,7 @@ Jul 20 | End of Summer Semester
 * [Important Dates](https://www.bakersfieldcollege.edu/important-dates)
 
 ## 6 Week Summer Semester Schedule
-Week | Topics | Reading | Assignments
+| Week | Topics | Reading | Assignments
  ------------- | ------------- | ------------- | -------------
 | 1 | Orientation | Syllabus | Scanvenger Hunt
 |  | Intro. to Computer Concepts | Ch. 1 |

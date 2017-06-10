@@ -12,8 +12,8 @@ Building/Room: Business 1
 E-Mail: edward.rangel@bakersfieldcollege.edu  
 Phone: (661) 395-4879   
 Web: [BC Portal](https://portal.bakersfieldcollege.edu)  
-Canvas: [BC Canvas](https://kccd.instructure.com/)
-MyITLab: [MyITLab](http://www.pearsonmylabandmastering.com/northamerica/)
+Canvas: [BC Canvas](https://kccd.instructure.com/)  
+MyITLab: [MyITLab](http://www.pearsonmylabandmastering.com/northamerica/)  
 
 ## Course Information
 Online
@@ -24,8 +24,8 @@ Building/Room: Online
 
 Day | Time
 ------------ | -------------
-Monday | 11:30am – 12:00pm
-Wednesday | 11:30am – 12:00pm
+Monday | 10:00am – 10:30pm
+Wednesday | 3:00pm – 3:30pm
 * If you are unable to see me during my regularly scheduled office hours, please email me to schedule an appointment.
 * Online office hours will be conducted through Canvas.
 
@@ -66,8 +66,10 @@ Each student in this course will abide by the Academic Honesty Policy described 
 will receive a grade of zero. Please be sensitive to the learning environment and the needs of each and every student in class. Avoid causing distractions or engaging in non-class activity. Turn cells phones off before class starts and respond only after class ends. Unless it is an emergency, do not leave class to answer the phone and do not text message. Do not conduct personal conversations when the instructor is lecturing. Disciplinary action including removal from class will result. Personal computers or other electronic devices are not to be used in class for non-class related activities. 
 
 ## Attendance
-Attendance is mandatory. The attendance policy as outlined in the campus catalog will be enforced. Students must notify me in the event of class absences.  Any student that is absent for more than two weeks without prior instructor notification may be dropped from the course. If you do not want to be in the class then you must drop yourself from the course.  I will not 
-retroactively drop you if you miss one of the “last day” to drop the course dates.  These dates are listed in class schedule and in the online campus schedule “Important Dates” section. It is also expected that students will notify me before class in the rare instance of needing to leave class early.  Students, not notifying me in advance, will be marked absent upon their early departure.
+Attendance is mandatory. The attendance policy as outlined in the campus catalog will be enforced. In online courses, your attendance is based on course participation. Students must notify me in the event of class absences.  Any student that is absent for more than two weeks without prior instructor notification may be dropped from the course. If you do not want to be in the class then you must drop yourself from the course.  I will not 
+retroactively drop you if you miss one of the “last day” to drop the course dates.  These dates are listed in class schedule and in the online campus schedule “Important Dates” section. It is also expected that students will notify me before class in the rare instance of needing to leave class early.  Students, not notifying me in advance, will be marked absent upon their early departure. 
+
+
 
 ### Online Courses
 This course is conducted entirely online, which means you do not have to be on campus to complete any portion of it. You will participate in the course using BC's learning management system called Canvas which can be accessed through BC's Portal [Inside BC](https://portal.bakersfieldcollege.edu/) or at [BC Canvas](https://kccd.instructure.com/). 
@@ -108,7 +110,7 @@ hand navigation links) to send email for private messages. You can either check 
 CANVAS system or set your notifications to your preferred method of contact. Please check your
 messages regularly. When submitting messages, please do the following:
 * Put a subject in the subject box that describes the email content with your name, week and
-message subject. For example: YOURNAME ASSIGNMENT2.
+message subject. For example: Homework 1.
 * Send email only to CONVERSATIONS and not my school email account.
 * Do not send messages asking general information about the class, please post those in the
 QUESTION FORUM.
@@ -144,7 +146,7 @@ http://www.albion.com/netiquette/index.html.
 ## Course Participation Policy
 Participation is essential to your success in this class. In distance education courses you are required to
 participate just as if you were in a face-to-face course. This means that in order to get full credit for
-participation, you will have to complete your discussion assignments, lesson assignments and quizzes on a
+participation, log in to Canvas regularly to check for updates, you will have to complete your discussion assignments, lesson assignments and quizzes on a
 timely basis. Consistent failure to participate in class will result in being dropped from the course.
 
 ## Assignments, Quizzes and Exams
@@ -162,18 +164,16 @@ Range (%) | grade
 80 >= | B
 70 >= | C
 60 >= | D
-60 >= | F
+60 <  | F
 
 
 ## Exams, Assignments, and Late Policy 
-MAKE-UP EXAMS OR QUIZZES WILL NOT BE GIVEN AND LATE ASSIGNMENTS WILL NOT BE ACCEPTED. Assignments are due at the BEGINNING of the class session. 
+MAKE-UP EXAMS OR QUIZZES WILL NOT BE GIVEN AND LATE ASSIGNMENTS WILL NOT BE ACCEPTED. Assignments are due by the due dates listed in each course assignment.
 You may always arrange to turn in assignments or take exams in advance of the scheduled times. Exams and quizzes will be timed. You will not be given extra time to complete the exam or quiz if you start late. 
 
 
 ## Extra Credit
-Go to a BC Library Workshop (5 pts)  
-[Workshop Schedule](https://www.bakersfieldcollege.edu/library/workshop-schedule)  
-* Maximum of two workshops per semester course
+None
 
 ## Habits of Mind
 Many free resources exist at BC to help you accomplish your goals. For great information on developing new 
@@ -194,27 +194,27 @@ Jul 20 | End of Summer Semester
 * [Important Dates](https://www.bakersfieldcollege.edu/important-dates)
 
 ## 6 Week Summer Semester Schedule
-Week | Topics | Reading | Assignments
+| Week | Topics | Reading | Assignments
  ------------- | ------------- | ------------- | -------------
-1 | Orientation | Syllabus | Scanvenger Hunt
+| 1 | Orientation | Syllabus | Scanvenger Hunt
 |  | Intro. to Computer Concepts | Ch. 1 |
 |  | Intro. to Windows | Windows Ch. 1 | WN-HW1
-2 | Windows Exam |  |
+| 2 | Windows Exam |  |
 |  | Word 1 | Ch. 1 | WD-HW1
 |  | Word 2 | Ch. 2 | WD-HW2
-3 | Word 3 | Ch. 3 | WD-HW3
+| 3 | Word 3 | Ch. 3 | WD-HW3
 |  | Word Exam |  |
 |  | Excel 1 | Ch. 1 | EX-HW1
 |  | Excel 2 | Ch. 2 | EX-HW2
-4 | Excel 3 | Ch. 3 | EX-HW3
+| 4 | Excel 3 | Ch. 3 | EX-HW3
 |  | Excel Exam |  |
 |  | Access 1 | Ch. 1 | AC-HW1
 |  | Access 2 | Ch. 2 | AC-HW2
-5 | Access 3 | Ch. 3 | AC-HW3
+| 5 | Access 3 | Ch. 3 | AC-HW3
 |  | Access Exam |  |
 |  | PowerPoint 1 | Ch. 1 | PT-HW1
 |  | PowerPoint 2 | Ch. 2 | PT-HW2
-6 | PowerPoint 3 | Ch. 3 | PT-HW3
+| 6 | PowerPoint 3 | Ch. 3 | PT-HW3
 |  | PowerPoint Exam |  |
 
 

@@ -150,7 +150,7 @@ Week | Topics | Reading | Assignments
 15  | PowerPoint | Ch. 2 | 
 16 | PowerPoint | Ch. 3 |
 17 | Finals Week | |
-  | CRN: 31383 Final Exam - Mon., May 7 from 4:00 PM - 5:50 PM | **Bring ScanTron** |  
+Final Exam   | Wed., May 9 from noon-1:50 PM |  |  
 
 
 ### READ THE MATERIAL FOR THE WEEK BEFORE CLASS

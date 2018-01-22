@@ -134,8 +134,8 @@ May 11 | End of Spring Semester
 Week | Topics | Reading | Assignments
 ------------- | ------------- | ------------- | -------------
 1 | Orientation | Windows Ch. 1 | 
-2 | Windows  | Windows Ch. 1 | 
-3 | Windows Exam/Word  | Ch. 1| 
+2 | Computer Concepts/Windows  | Windows Ch. 1 | 
+3 | Word  | Ch. 1| 
 4 | Word | Ch. 1 | 
 5 | Word | Ch. 2 | 
 6 | Word | Ch. 3 | 

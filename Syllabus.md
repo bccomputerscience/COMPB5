@@ -122,7 +122,6 @@ Date | Event
 Jan 13 | Spring Semester - Instruction Begins 
 Jan 15 | Martin Luther King, Jr. Day Holiday – Campus Closed
 Jan 28 | Last day to drop from a semester length class without receiving a W 
-       | Last day to add a semester length class with approved add form  
 Feb 16 | Lincoln Holiday - Campus Closed 
 Feb 19 | Washington Holiday - Campus Closed  
 Mar 23 | Last day to withdraw from a semester length class and receive a W 

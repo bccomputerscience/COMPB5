@@ -16,7 +16,7 @@ Canvas: [BC Canvas](https://kccd.instructure.com/)
 MyITLab: [MyITLab](http://www.pearsonmylabandmastering.com/northamerica/)  
 
 ## Course Information
-Building/Room: Online
+Building/Room: B11
 
 Day | Time
 ------------ | -------------
@@ -34,7 +34,7 @@ Monday | 03:00pm – 04:00pm
 Tuesday | 02:30pm – 03:00pm
 Wednesday | 12:00pm – 01:00pm
 Wednesday | 03:00pm – 04:00pm
-Tuesday | 02:30pm – 03:00pm
+Thursday | 02:30pm – 03:00pm
 * If you are unable to see me during my regularly scheduled office hours, please email me to schedule an appointment.
 
 
@@ -75,8 +75,7 @@ Each student in this course will abide by the Academic Honesty Policy described 
 will receive a grade of zero. Please be sensitive to the learning environment and the needs of each and every student in class. Avoid causing distractions or engaging in non-class activity. Turn cells phones off before class starts and respond only after class ends. Unless it is an emergency, do not leave class to answer the phone and do not text message. Do not conduct personal conversations when the instructor is lecturing. Disciplinary action including removal from class will result. Personal computers or other electronic devices are not to be used in class for non-class related activities. 
 
 ## Attendance
-Attendance is mandatory. The attendance policy as outlined in the campus catalog will be enforced. In online courses, your attendance is based on course participation. Students must notify me in the event of class absences.  Any student that is absent for more than two weeks without prior instructor notification may be dropped from the course. If you do not want to be in the class then you must drop yourself from the course.  I will not 
-retroactively drop you if you miss one of the “last day” to drop the course dates.  These dates are listed in class schedule and in the online campus schedule “Important Dates” section. It is also expected that students will notify me before class in the rare instance of needing to leave class early.  Students, not notifying me in advance, will be marked absent upon their early departure. 
+Attendance is mandatory. The attendance policy as outlined in the campus catalog will be enforced. Students must notify me in the event of class absences.  Attendance will be tracked in Canvas. If you are late, it is your responsibility to notify me. This can be done through Canvas or after my lecture is over. Any student that is absent for more than two weeks without prior instructor notification may be dropped from the course. Being late twice will count as 1 absent. If you do not want to be in the class then you must drop yourself from the course.  I will not retroactively drop you if you miss one of the “last day” to drop the course dates.  These dates are listed in class schedule and in the college website under the “Important Dates” section. It is also expected that students will notify me before class in the rare instance of needing to leave class early.  Students, not notifying me in advance, will be marked absent upon their early departure.
 
 ### MyITLab
 This course uses an online companion website called MyITLab. When you purchase your book from the BC Bookstore, you will be provided an Access Code. The Access Code is required in order to register on MyITLab, which is where you will be completing your assignments. 

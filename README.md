@@ -1,25 +1,26 @@
 # COMP B5 - Intro to Microsoft Office
-## Summer 2017 CRN: 50245
+## Summer 2017 
+## CRN: 50275, 50889, & 51126
 
 ## Instructor
 Eddie Rangel  
-Asst. Professor  
+Assoc. Professor  
 Information Technology  
 Bakersfield College  
 
 ## Contact Information
-Building/Room: Business 1  
+Building/Room: Online/Canvas
 E-Mail: edward.rangel@bakersfieldcollege.edu  
 Phone: (661) 395-4879   
 web: [BC Portal](https://portal.bakersfieldcollege.edu)  
 canvas: [BC Canvas](https://kccd.instructure.com/)
 
 ## Course Information
-Online
+Online/Canvas
 
 
 ## Office Hours
-Building/Room: Online
+Building/Room: Online/Canvas
 
 Day | Time
 ------------ | -------------

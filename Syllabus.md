@@ -1,26 +1,26 @@
 # COMP B5 - Intro to Microsoft Office
-## Summer 2017 CRN: 50245
+## Summer 2017 
+## CRN: 50275, 50889, & 51126
 
 ## Instructor
 Eddie Rangel  
-Asst. Professor  
+Assoc. Professor  
 Information Technology  
 Bakersfield College  
 
 ## Contact Information
-Building/Room: Business 1  
+Building/Room: Online/Canvas
 E-Mail: edward.rangel@bakersfieldcollege.edu  
 Phone: (661) 395-4879   
-Web: [BC Portal](https://portal.bakersfieldcollege.edu)  
-Canvas: [BC Canvas](https://kccd.instructure.com/)  
-MyITLab: [MyITLab](http://www.pearsonmylabandmastering.com/northamerica/)  
+web: [BC Portal](https://portal.bakersfieldcollege.edu)  
+canvas: [BC Canvas](https://kccd.instructure.com/)
 
 ## Course Information
-Online
+Online/Canvas
 
 
 ## Office Hours
-Building/Room: Online
+Building/Room: Online/Canvas
 
 Day | Time
 ------------ | -------------
@@ -153,10 +153,11 @@ timely basis. Consistent failure to participate in class will result in being dr
 
 Assignment | Points
 ------------ | -------------
-13 Homework Assignments (20 points each) | 260
-Quizzes (4 @ 10 pts) | 40
+12 Homework Assignments (20 points each) | 240
+24 Class Assignments (10 points each) | 240
+4 Quizzes | 40
 4 Exams (50 points each) | 200
-**Total** | **500**
+**Total** | **720**
 
 Range (%) | grade 
 ------------ | -------------
@@ -183,13 +184,13 @@ habits for success [Habits of Mind](http://www.bakersfieldcollege.edu/habits-of-
 ## Important Dates
 Date | Event
 ------ | ------
-Jun 12 | Instruction begins 
-Jun 14 | Last day for refunds for 6 week classes
-Jun 18 | Last day to drop 6 week with no “W”
-Jun 19 | Census day for 6 week classes
+Jun 11 | Instruction begins 
+Jun 12 | Last day for refunds for 6 week classes
+Jun 17 | Last day to drop 6 week with no “W”
+Jun 18 | Census day for 6 week classes
+Jul 03| Last day to withdraw from 6 week classes and receive a “W”
 Jul 04 | Holiday - Fourth of July
-Jul 05 | Last day to withdraw from 6 week classes and receive a “W”
-Jul 20 | End of Summer Semester
+Jul 19 | End of Summer Semester
 
 * [Important Dates](https://www.bakersfieldcollege.edu/important-dates)
 

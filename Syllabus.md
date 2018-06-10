@@ -14,6 +14,7 @@ E-Mail: Use Canvas
 Phone: (661) 395-4879   
 web: [BC Portal](https://portal.bakersfieldcollege.edu)  
 canvas: [BC Canvas](https://kccd.instructure.com/)
+MyITLab: [MyITLab](https://www.pearsonmylabandmastering.com/northamerica/myitlab/)
 
 ## Course Information
 Online/Canvas
@@ -69,8 +70,6 @@ will receive a grade of zero. Please be sensitive to the learning environment an
 Attendance is mandatory. The attendance policy as outlined in the campus catalog will be enforced. In online courses, your attendance is based on course participation. Students must notify me in the event of class absences. If you do not want to be in the class then you must drop yourself from the course.  I will not 
 retroactively drop you if you miss one of the “last day” to drop the course dates.  These dates are listed in class schedule and in the online campus schedule “Important Dates” section. It is also expected that students will notify me before class in the rare instance of needing to leave class early.  Students, not notifying me in advance, will be marked absent upon their early departure. 
 
-
-
 ### Online Courses
 This course is conducted entirely online, which means you do not have to be on campus to complete any portion of it. You will participate in the course using BC's learning management system called Canvas which can be accessed through BC's Portal [Inside BC](https://portal.bakersfieldcollege.edu/) or at [BC Canvas](https://kccd.instructure.com/). 
 
@@ -91,11 +90,10 @@ software on your computer to take this class. Some of the documents in this cour
 you can download it by going to http://get.adobe.com/reader/.
 
 ### Office 2016 and Windows 10
-This course will focus on Microsoft's Office 2016 Suite of Applications and the Windows 10 Operating System. It is imperative that you have access to these software versions as all homework assignments will be based on them. If you do not currently have these versions, you either purchase full versions or a free student version by [Office 365 - Student Edition](https://products.office.com/en-us/student/office-in-education). There may be some features that may be unavailable in the student version. You are responsible for ensuring you're able to complete all assignments as expected. 
+This course will focus on Microsoft's Office 2016 Suite of Applications and the Windows 10 Operating System. It is imperative that you have access to these software versions as all homework assignments will be based on them. If you do not currently have these versions, you will need to purchase the purchase full versions which you can be obtained at a discounted rate by using this link from our Bookstore [Software for Students](http://thinkedu.com/bn/). You are responsible for ensuring you're able to complete all assignments as expected. 
 
 ### MyITLab
 This course uses an online companion website called MyITLab. When you purchase your book from the BC Bookstore, you will be provided an Access Code. The Access Code is required in order to register on MyITLab, which is where you will be completing your assignments. 
-
 
 ## Course communication
 ### Announcements
@@ -135,7 +133,7 @@ Twice a week I will be available for virtual office hours – one morning and on
 CANVAS CHAT. Click CHAT in the course navigation links.
 TURNAROUND/FEEDBACK 
 
-During the week (M-F) I will check CONVERSATIONS and monitor the discussion board several times a
+During the week (M-Th) I will check CONVERSATIONS and monitor the discussion board several times a
 day. If you have a concern and send me a message, you can expect a response within two days.
 
 ### Netiquette
@@ -199,7 +197,7 @@ Jul 19 | End of Summer Semester
  ------------- | ------------- | ------------- | -------------
 | 1 | Orientation | Syllabus | Scanvenger Hunt
 |  | Intro. to Computer Concepts | Ch. 1 |
-|  | Intro. to Windows | Windows Ch. 1 | WN-HW1
+|  | Intro. to Windows | Windows Ch. 1 | 
 |  | Windows Quiz |  |
 | 2 | Word 1 | Ch. 1 | WD-HW1
 |  | Word 2 | Ch. 2 | WD-HW2

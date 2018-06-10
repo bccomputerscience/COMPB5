@@ -90,7 +90,7 @@ software on your computer to take this class. Some of the documents in this cour
 you can download it by going to http://get.adobe.com/reader/.
 
 ### Office 2016 and Windows 10
-This course will focus on Microsoft's Office 2016 Suite of Applications and the Windows 10 Operating System. It is imperative that you have access to these software versions as all homework assignments will be based on them. If you do not currently have these versions, you will need to purchase the purchase full versions which you can be obtained at a discounted rate by using this link from our Bookstore [Software for Students](http://thinkedu.com/bn/). You are responsible for ensuring you're able to complete all assignments as expected. 
+This course will focus on Microsoft's Office 2016 Suite of Applications and the Windows 10 Operating System. It is imperative that you have access to these software versions as all homework assignments will be based on them. If you do not currently have these versions, you will need to purchase the purchase full versions which you can be obtained at a discounted rate by using this link from our Bookstore [Software for Students](http://thinkedu.com/bn/bn2/. You are responsible for ensuring you're able to complete all assignments as expected. 
 
 ### MyITLab
 This course uses an online companion website called MyITLab. When you purchase your book from the BC Bookstore, you will be provided an Access Code. The Access Code is required in order to register on MyITLab, which is where you will be completing your assignments. 

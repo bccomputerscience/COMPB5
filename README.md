@@ -1,5 +1,5 @@
 # COMP B5 - Intro to Microsoft Office
-## Summer 2017 
+## Summer 2018 
 ## CRN: 50275, 50889, & 51126
 
 ## Instructor

@@ -131,7 +131,6 @@ answers.[ Canvas Student Guide](http://guides.instructure.com/s/2204/m/4212)
 ### Virtual Office Hours
 Twice a week I will be available for virtual office hours – one morning and one evening session using
 CANVAS CHAT. Click CHAT in the course navigation links.
-TURNAROUND/FEEDBACK 
 
 During the week (M-Th) I will check CONVERSATIONS and monitor the discussion board several times a
 day. If you have a concern and send me a message, you can expect a response within two days.

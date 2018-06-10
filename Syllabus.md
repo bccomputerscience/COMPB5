@@ -10,7 +10,7 @@ Bakersfield College
 
 ## Contact Information
 Building/Room: Online/Canvas
-E-Mail: edward.rangel@bakersfieldcollege.edu  
+E-Mail: Use Canvas
 Phone: (661) 395-4879   
 web: [BC Portal](https://portal.bakersfieldcollege.edu)  
 canvas: [BC Canvas](https://kccd.instructure.com/)
@@ -200,23 +200,23 @@ Jul 19 | End of Summer Semester
 | 1 | Orientation | Syllabus | Scanvenger Hunt
 |  | Intro. to Computer Concepts | Ch. 1 |
 |  | Intro. to Windows | Windows Ch. 1 | WN-HW1
-| 2 | Windows Exam |  |
-|  | Word 1 | Ch. 1 | WD-HW1
+|  | Windows Quiz |  |
+| 2 | Word 1 | Ch. 1 | WD-HW1
 |  | Word 2 | Ch. 2 | WD-HW2
-| 3 | Word 3 | Ch. 3 | WD-HW3
-|  | Word Exam |  |
+|  | Word 3 | Ch. 3 | WD-HW3 
+| 3 | Word Exam |  |
 |  | Excel 1 | Ch. 1 | EX-HW1
 |  | Excel 2 | Ch. 2 | EX-HW2
-| 4 | Excel 3 | Ch. 3 | EX-HW3
-|  | Excel Exam |  |
+|  | Excel 3 | Ch. 3 | EX-HW3
+| 4 | Excel Exam |  |
 |  | Access 1 | Ch. 1 | AC-HW1
 |  | Access 2 | Ch. 2 | AC-HW2
-| 5 | Access 3 | Ch. 3 | AC-HW3
-|  | Access Exam |  |
+|  | Access 3 | Ch. 3 | AC-HW3
+| 5 | Access Exam |  |
 |  | PowerPoint 1 | Ch. 1 | PT-HW1
 |  | PowerPoint 2 | Ch. 2 | PT-HW2
-| 6 | PowerPoint 3 | Ch. 3 | PT-HW3
-|  | PowerPoint Exam |  |
+|  | PowerPoint 3 | Ch. 3 | PT-HW3
+| 6 | PowerPoint Exam |  |
 
 
 ### READ THE MATERIAL FOR THE WEEK BEFORE CLASS

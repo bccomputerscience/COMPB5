@@ -13,7 +13,7 @@ Building/Room: Online/Canvas
 E-Mail: Use Canvas
 Phone: (661) 395-4879   
 web: [BC Portal](https://portal.bakersfieldcollege.edu)  
-canvas: [BC Canvas](https://kccd.instructure.com/)
+canvas: [BC Canvas](https://kccd.instructure.com/)  
 MyITLab: [MyITLab](https://www.pearsonmylabandmastering.com/northamerica/myitlab/)
 
 ## Course Information

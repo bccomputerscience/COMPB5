@@ -1,5 +1,5 @@
 # COMP B5 - Intro to Microsoft Office
-## Spring 2018 CRN: 31022
+## Fall 2018 CRN: 71048
 
 ## Instructor
 Eddie Rangel  
@@ -16,7 +16,7 @@ Canvas: [BC Canvas](https://kccd.instructure.com/)
 MyITLab: [MyITLab](http://www.pearsonmylabandmastering.com/northamerica/)  
 
 ## Course Information
-Building/Room: Online
+Building/Room: B11
 
 Day | Time
 ------------ | -------------
@@ -29,10 +29,11 @@ Office: Business 1
 
 Day | Time
 ------------ | -------------
-Monday | 11:30am – 01:00pm
-Monday | 03:00pm – 04:00pm
-Wednesday | 11:30am – 01:00pm
-Wednesday | 03:00pm – 04:00pm
+Monday | 11:00am – 12:00pm
+Tuesday | 11:00am – 12:00pm
+Wednesday | 11:00am – 12:00pm
+Wednesday | 3:00pm – 4:00pm
+Thursday | 11:00am – 12:00pm
 * If you are unable to see me during my regularly scheduled office hours, please email me to schedule an appointment.
 
 

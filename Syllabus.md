@@ -1,5 +1,5 @@
 # COMP B5 - Intro to Microsoft Office
-## Spring 2018 CRN: 31022
+## Fall 2018 CRN: 71048
 
 ## Instructor
 Eddie Rangel  
@@ -29,12 +29,11 @@ Office: Business 1
 
 Day | Time
 ------------ | -------------
-Monday | 12:00pm – 01:00pm
-Monday | 03:00pm – 04:00pm
-Tuesday | 02:30pm – 03:00pm
-Wednesday | 12:00pm – 01:00pm
-Wednesday | 03:00pm – 04:00pm
-Thursday | 02:30pm – 03:00pm
+Monday | 11:00am – 12:00pm
+Tuesday | 11:00am – 12:00pm
+Wednesday | 11:00am – 12:00pm
+Wednesday | 3:00pm – 4:00pm
+Thursday | 11:00am – 12:00pm
 * If you are unable to see me during my regularly scheduled office hours, please email me to schedule an appointment.
 
 
@@ -48,12 +47,8 @@ previously received credit for COMS B5.
 
 ## Student Learning Outcomes
 The following are the goals for students taking this class. 
-* The student will successfully identify computer hardware.
-* The student will use menus, the keyboard, and the mouse to perform functions in the Windows Explorer program, such as managing files.
-* The student will successfully create, edit, print, and format Word documents.
-* The student will successfully create, edit, print, enhance, insert formulas, and create charts in Excel documents.
-* The student will successfully create, edit, print, enhance, and run a PowerPoint presentation.
-* The student will successfully design, create, edit, and perform queries and filters in an Access file.
+* The student will successfully identify and analyze computer hardware.
+* The student will analyze problems and create, format, edit, and print, Word processing, spreadsheet, presentation, and database files.
 
 
 ## Textbook
@@ -65,7 +60,8 @@ The following are the goals for students taking this class.
 * Flash Drive
 
 ## Accommodations 
-Students with disabilities who believe they may need accommodations in this class are encouraged to contact Disabled Student Programs & Services at (661) 395-4334, (on-campus located at Student Services Building, 1st Floor, Counseling Center), as soon as possible to better ensure such accommodations are implemented in a timely fashion.
+*	Students with disabilities needing accommodation, including those who had an IEP or 504 Plan in high school, should make requests to Disabled Students Programs and Services in CSS 10 (661-395-4334), or Delano room 1001 (661-720-2000). All requests for accommodations require appropriate advance notice to avoid a delay in services. Please discuss approved accommodations with me so we can work together to ensure your access and success at BC.
+*	Estudiantes con discapacidades que necesitan  alojamiento, incluyendo aquellos que tienen IPE en preparatoria, tienen que hacer una solicitud a los programas de estudiantes con discapacidades (Disabled Students Programs and Services) en CSS 10, o al salon de Delano #1001 (661-395-4334) o (661-720-2000 Delano).  Todas las solicitudes para alojamiento requieren de aviso previo para evitar retrasos en los servicios. Favor de hablar conmigo sobre el alojamiento aprobado para asegurar tu acceso y exito en BC.
 
 ## Equity and Inclusion
 Bakersfield College is committed to creating and fostering a positive, safe and conducive learning environment based on open communication where diversity, equity, and inclusion are recognized, valued and inform thoughtful decision-making and action. BC embraces individual difference and expects all employees and students to respect these differences and accept an understanding that individuals have unique perspectives, behaviors, and worldviews that may be different from their own.
@@ -84,10 +80,11 @@ This course uses an online companion website called MyITLab. When you purchase y
 
 Assignment | Points
 ------------ | -------------
-13 Homework Assignments (20 points each) | 260
-Quizzes (4 @ 10 pts) | 40
+12 Homework Assignments (20 points each) | 260
+24 In Class Assignments (10 points each) | 260
+4 Quizzes | 40
 4 Exams (50 points each) | 200
-**Total** | **500**
+**Total** | **720**
 
 Range (%) | grade 
 ------------ | -------------
@@ -119,14 +116,15 @@ habits for success [Habits of Mind](http://www.bakersfieldcollege.edu/habits-of-
 ## Important Dates
 Date | Event
 ------ | ------
-Jan 13 | Spring Semester - Instruction Begins 
-Jan 15 | Martin Luther King, Jr. Day Holiday – Campus Closed
-Jan 28 | Last day to drop from a semester length class without receiving a W 
-Feb 16 | Lincoln Holiday - Campus Closed 
-Feb 19 | Washington Holiday - Campus Closed  
-Mar 23 | Last day to withdraw from a semester length class and receive a W 
-Mar 26 | Spring Break - Campus Closed 
-May 11 | End of Spring Semester
+Aug 18 | Fall Semester - Instruction Begins 
+Sep 02 | Last day to drop from a semester length class without receiving a W 
+Sep 03 | Labor Day Holiday - Campus Closed
+Oct 19 | Last day to withdraw from a semester length class and receive a W 
+Nov 12 | Veterans Day - Campus Closed 
+Nov 22 | Thanksgiving Holiday - Campus Closed 
+Nov 23 | Thanksgiving Holiday - Campus Closed 
+Dec 03 | Final Exam 12:00pm - 1:50pm
+Dec 08 | End of Fall Semester
 
 * [Important Dates](https://www.bakersfieldcollege.edu/important-dates)
 
@@ -144,13 +142,12 @@ Week | Topics | Reading | Assignments
 9 | Excel  | Ch. 3 | 
 10 | Excel Exam/Access | Ch. 1 | 
 11 | Access | Ch. 2 | 
-12 | Spring Break - Campus Closed | | 
-13 | Access | Ch. 3| 
-14 | Access Exam /PowerPoint | Ch. 1  | 
-15  | PowerPoint | Ch. 2 | 
-16 | PowerPoint | Ch. 3 |
-17 | Finals Week | |
-Final Exam   | Wed., May 9 from noon-1:50 PM |  |  
+12 | Access | Ch. 3| 
+13 | Access Exam /PowerPoint | Ch. 1  | 
+14  | PowerPoint | Ch. 2 | 
+15 | PowerPoint | Ch. 3 |
+16 | Finals Week | |
+Final Exam   | Wed., Dec. 5 from noon-1:50 PM |  |  
 
 
 ### READ THE MATERIAL FOR THE WEEK BEFORE CLASS

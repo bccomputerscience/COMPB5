@@ -80,8 +80,8 @@ This course uses an online companion website called MyITLab. When you purchase y
 
 Assignment | Points
 ------------ | -------------
-12 Homework Assignments (20 points each) | 260
-24 In Class Assignments (10 points each) | 260
+12 Homework Assignments (20 points each) | 240
+24 In Class Assignments (10 points each) | 240
 4 Quizzes | 40
 4 Exams (50 points each) | 200
 **Total** | **720**

@@ -46,9 +46,8 @@ previously received credit for COMS B5.
 
 
 ## Student Learning Outcomes
-The following are the goals for students taking this class. 
-* The student will successfully identify and analyze computer hardware.
-* The student will analyze problems and create, format, edit, and print, Word processing, spreadsheet, presentation, and database files.
+* Upon completion the student will be able to:The students will identify and analyze computer hardware.
+* Upon completion the student will be able to: The students will analyze problems and create, format, edit, and print word processing, spreadsheet, presentation, and database files.
 
 
 ## Textbook
